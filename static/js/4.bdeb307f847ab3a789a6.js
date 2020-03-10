@@ -1,0 +1,2 @@
+webpackJsonp([4],{"9Lxg":function(e,t){},mAtK:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("开发中")])},staticRenderFns:[]};var i=n("C7Lr")({name:"index"},r,!1,function(e){n("9Lxg")},"data-v-13cd146f",null);t.default=i.exports}});
+//# sourceMappingURL=4.bdeb307f847ab3a789a6.js.map
