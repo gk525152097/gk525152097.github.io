@@ -1,2 +1,0 @@
-webpackJsonp([18],{hPpg:function(e,n,c){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var o=c("eJD8"),i=c.n(o),a=c("S6gN"),t=c.n(a),l=[{name:"小程序用户体验",icon:"el-icon-document",file:i.a},{name:"切换前端主题方式",icon:"el-icon-document",file:t.a}];n.default=l}});
-//# sourceMappingURL=18.c23660ae5eb588b2cb5f.js.map
