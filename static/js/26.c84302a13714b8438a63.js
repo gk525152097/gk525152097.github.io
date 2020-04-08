@@ -1,0 +1,2 @@
+webpackJsonp([26],{lcxS:function(t,n){t.exports='<h1 id="展示页面">展示页面</h1>\n<h2 id="非功能页面-展示页面">非功能页面 展示页面</h2>\n<h3 id="构成">构成</h3>\n<pre><code class="language-html">&lt;header&gt;&lt;/header&gt;\n&lt;content-wrapper&gt;\n&lt;menu&gt;&lt;/menu&gt;\n&lt;content&gt;&lt;/content&gt;\n&lt;info&gt;\n&lt;!-- something --&gt;\n&lt;/info&gt;\n&lt;/content-wrapper&gt;</code></pre>\n'}});
+//# sourceMappingURL=26.c84302a13714b8438a63.js.map
